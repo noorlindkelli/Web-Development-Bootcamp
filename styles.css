@@ -1,0 +1,50 @@
+body {
+  background-color: #bfdbf7;
+}
+
+h1 {
+  color: #0466c8;
+  text-decoration: underline double black;
+  font-family: fantasy;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+h2 {
+  color: black;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 40px;
+}
+h3 {
+  color: #0466c8;
+  font-family: fantasy;
+}
+a {
+  color: #001233;
+  font-weight: bold;
+  text-decoration: none;
+}
+a:hover {
+    background-color: yellow;
+    font-size: 22px;
+    text-decoration: underline double;
+}
+form {
+    background-color: #1f7a8c;
+    width: 500px;
+    height: 30px;
+}
+input {
+    width: 350px;
+    height: 20px;
+    text-align: center;
+}
+button {
+    font-weight: bolder;
+    text-align: center;
+}
+button:hover {
+    background-color: #ff206e;
+    color: #edf2f4;
+}
